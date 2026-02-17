@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 Importing & Securing Data in ServiceNow
+#  Importing & Securing Data in ServiceNow
 
 **A production-ready demonstration of enterprise data management, secure access control, and dynamic reporting on the ServiceNow platform.**
 
@@ -258,12 +258,12 @@ The architecture follows the **principle of least privilege** — access is deni
 
 | Name | Role |
 |---|---|
-| **Vadde Manogna** | Team Leader |
-| **Manasa Reddy Y** | Developer |
-| **Peravali Poojitha** | Developer |
-| **Poojitha Valli P** | Developer |
+| **Gorusu Prabhas**               | Team Leader |
+| **Venkata Sri Dharani Saladi**   | Developer |
+| **Sagarapu Anitha**              | Developer |
+| **Priyanka Sharmila Nallamilli** | Developer |
 
-**Team ID:** `LTVIP2025TMID29765`
+**Team ID:** `LTVIP2026TMIDS76629`
 
 ---
 
