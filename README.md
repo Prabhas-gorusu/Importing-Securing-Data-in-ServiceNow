@@ -254,7 +254,7 @@ The architecture follows the **principle of least privilege** — access is deni
 
 ---
 
-## 👩‍💻 Team
+## 👩‍💻 Our Team
 
 | Name | Role |
 |---|---|
